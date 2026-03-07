@@ -22,3 +22,39 @@ phishing(cam phish,tbobm,ziphisher)
 zipherpish attack(git clone, copy link,ls,bash ziphisher.sh)if you want stop using keywords is ctrl+c
 camphish attack(same process)
 tbomb(same process but using moblie number)
+osi model
+udp packet(
+time to live
+checksum
+source address
+destination addess
+data)
+port number 443(https) 
+80(http)
+ss(22)
+ftp(21)
+rdp(3389)
+3 way handshake(syn,syn/ack,ack) data,fin,rst
+NAT and PORT forwarding
+two types of firewall(1. stateful firewall 2. stateless firewal)dpi in firewall
+bot net
+ddos
+dos
+VPN(extra way of protection)
+ospf and rip to selecting the path(this are used in router protocol)
+DNS
+kali linux(nslookup google.com) it shows ipv4,ipv6
+ns lookup -type =A(ipv4 shows)
+ns lookuo-type=AAAA(ipv6 shows) simple message protocol(SMTP) it is which port is used
+ns lookup -type =txt
+ns lookup-text=PTR(ip need)
+ssl certificate(eg tttps)-s means certificate
+tool(
+recon -ng
+recon-ng
+tool (netdiscover)cname records h/w
+dnsenum(tool)
+dnsrecord(tool)
+rm -r folder name(it is used for delete the folder and file)
+have i been pwned(it check it as been hacked or not)
+osint frame work(it is we can access insta id,ip,mac address)etc
