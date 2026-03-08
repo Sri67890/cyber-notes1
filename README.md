@@ -66,3 +66,13 @@ transport layer("UDP,TCP)
 network layer("packet",ip address,routing)
 datalink layer("frame",mac address)
 physical layer("bits")
+(tool)dmitry
+(tool)wafw00f
+(tool)nikto
+(tool)load banlancer(lbd)
+(tool)readnotify (focusing on email using website )(read notify)
+search in chrome viewdns (find the location), autospy
+(tool)shellter use multi/handler,setpayload,
+nmap 
+how to connect ssh
+exam ch master(important question) postive and negative           pip install sherlock -project
