@@ -58,3 +58,11 @@ dnsrecord(tool)
 rm -r folder name(it is used for delete the folder and file)
 have i been pwned(it check it as been hacked or not)
 osint frame work(it is we can access insta id,ip,mac address)etc
+OSI model(7 layers)
+application layer(message eg call)
+presentation layer(translation,encryption,compression)data preapartion
+session layer(synchronization connection )
+transport layer("UDP,TCP)
+network layer("packet",ip address,routing)
+datalink layer("frame",mac address)
+physical layer("bits")
