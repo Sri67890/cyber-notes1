@@ -75,4 +75,11 @@ search in chrome viewdns (find the location), autospy
 (tool)shellter use multi/handler,setpayload,
 nmap 
 how to connect ssh
-exam ch master(important question) postive and negative           pip install sherlock -project
+exam ch master(important question) postive and negative  practical network penetration testing (certificate)PJPT     pip install sherlock -project
+cryptography symmetric and assymteric
+cisco network accedemy (learnin in online) cisco packet tracer
+angry ip , advanced ip ,fing(scanning ) (download for finding the network ip address)
+nc commend in kalilinux
+proxy switcher used for penetration testing another one proxy foxy it is inside firefox
+path analyzer download
+masscan it is like nmap(it scanning only ports)
