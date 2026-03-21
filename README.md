@@ -83,3 +83,6 @@ nc commend in kalilinux
 proxy switcher used for penetration testing another one proxy foxy it is inside firefox
 path analyzer download
 masscan it is like nmap(it scanning only ports)
+csv  to find the vulnerablities
+rce(remote code execution)
+suid(s) for root access
