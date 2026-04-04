@@ -86,3 +86,10 @@ masscan it is like nmap(it scanning only ports)
 csv  to find the vulnerablities
 rce(remote code execution)
 suid(s) for root access
+scanning - nmap -sn or netdiscover -r(ip)   nmap -sV(ip)  
+NVD CVE expiote db
+tools - search exploite,metasploite
+steghide (tool)
+string
+ghidra
+binwalk
