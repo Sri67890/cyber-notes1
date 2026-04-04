@@ -93,3 +93,4 @@ steghide (tool)
 string
 ghidra
 binwalk
+l3oon,acuntiex
