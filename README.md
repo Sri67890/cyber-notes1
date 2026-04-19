@@ -1,4 +1,4 @@
-cia
+wirelecia
 what is network
 ip address
 subnet
@@ -95,9 +95,12 @@ ghidra
 binwalk
 l3oon,acuntiex
 get,post,put,delete(wireshark) testfire.net we can use this website to check something like capture the packets in the wireshark(in wireshark we can check specfic like if we can check(to type like http. reques.method=="post")tcp.port==80||udp.port==80
-mac spoofing(macchanger -m 00:11:22:44:55::77 etho,ifconfig
+mac spoofing(macchanger -m 00:11:22:44:55::77 etho,ifconfig)
 hping3(tool)
 arp spoofing(its like tool)
 kisnet(tool)
 ddos attack
 eth0
+airodump (tool)
+wifi create
+wifi hacking
